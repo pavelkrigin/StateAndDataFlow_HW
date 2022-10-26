@@ -2,7 +2,7 @@
 //  UserManager.swift
 //  StateAndDataFlow
 //
-//  Created by brubru on 24.10.2022.
+//  Created by  brubru on 24.10.2022.
 //
 
 import Foundation
