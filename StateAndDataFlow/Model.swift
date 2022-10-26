@@ -2,7 +2,7 @@
 //  Model.swift
 //  StateAndDataFlow
 //
-//  Created by Pavel Krigin on 26.10.22..
+//  Created by  Pavel Krigin on 26.10.22..
 //
 
 //import Foundation
